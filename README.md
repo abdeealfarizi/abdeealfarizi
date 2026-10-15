@@ -79,7 +79,7 @@ Informatics student with a strong interest in graphic design and photography. I 
 
 <div align="center">
 
-### Contribution Snake
+### Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdeealfarizi/abdeealfarizi/output/github-contribution-grid-snake-dark.svg"/>
