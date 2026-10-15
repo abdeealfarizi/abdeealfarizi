@@ -69,10 +69,6 @@ Informatics student with a strong interest in graphic design and photography. I 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdeealfarizi&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdeealfarizi&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff" width="95%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdeealfarizi&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=4" width="100%"/>
