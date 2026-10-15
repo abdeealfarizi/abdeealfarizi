@@ -51,18 +51,13 @@ Informatics student with a strong interest in graphic design and photography. I 
 
 ### Through My Lens
 
-<img src="https://via.placeholder.com/280x280.png?text=Photo+1" width="23%" style="border-radius:8px"/>
-<img src="https://via.placeholder.com/280x280.png?text=Photo+2" width="23%" style="border-radius:8px"/>
-<img src="https://via.placeholder.com/280x280.png?text=Photo+3" width="23%" style="border-radius:8px"/>
-<img src="https://via.placeholder.com/280x280.png?text=Photo+4" width="23%" style="border-radius:8px"/>
+<img src="https://github.com/abdeealfarizi/abdeealfarizi/blob/06850b0267f67dd1a135781c8ed6b47c8a06c9ea/assets/1.JPG" width="23%" style="border-radius:8px"/>
+<img src="https://github.com/abdeealfarizi/abdeealfarizi/blob/06850b0267f67dd1a135781c8ed6b47c8a06c9ea/assets/2.JPG" width="23%" style="border-radius:8px"/>
+<img src="https://github.com/abdeealfarizi/abdeealfarizi/blob/06850b0267f67dd1a135781c8ed6b47c8a06c9ea/assets/3.JPG" width="23%" style="border-radius:8px"/>
+<img src="https://github.com/abdeealfarizi/abdeealfarizi/blob/06850b0267f67dd1a135781c8ed6b47c8a06c9ea/assets/4.jpg" width="23%" style="border-radius:8px"/>
 
 </div>
 
-<!--
-  Replace the 4 placeholder image URLs above with your own photos.
-  Upload them to an "assets/" folder in this repo, then point src to:
-  https://raw.githubusercontent.com/abdeealfarizi/abdeealfarizi/main/assets/photo1.jpg
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=4" width="100%"/>
 
